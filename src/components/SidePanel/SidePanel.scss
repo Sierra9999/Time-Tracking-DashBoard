@@ -1,0 +1,37 @@
+
+$Blue: hsl(246, 80%, 60%);
+$Light-red: hsl(15, 100%, 70%);
+$Soft-blue: hsl(195, 74%, 62%);
+$Light-red: hsl(348, 100%, 68%);
+$Lime-green : hsl(145, 58%, 55%);
+$Violet: hsl(264, 64%, 52%);
+$Soft-orange: hsl(43, 84%, 65%);
+
+
+$Very-dark-blue: hsl(226, 43%, 10%);
+$Dark-blue: hsl(235, 46%, 20%);
+$Desaturated-blue: hsl(235, 45%, 61%);
+$Pale-Blue: hsl(236, 100%, 87%);
+
+.side-panel{
+    height: 600px
+}
+
+.side-panel__owner{
+    height: 300px;
+    width: 200px;
+    background-color: $Blue ;
+    border-radius: 25px;
+    position: absolute;
+    z-index: 1;
+}
+.side-panel__navigation{
+    background-color: $Dark-blue;
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    z-index: 0;
+    top: 10%;
+    border-radius: 0% 0% 25px 25px;
+
+}
