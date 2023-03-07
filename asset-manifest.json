@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/time-tracking-app/static/css/main.936bf0a0.css",
-    "main.js": "/time-tracking-app/static/js/main.6aeda366.js",
-    "static/js/787.55b17a80.chunk.js": "/time-tracking-app/static/js/787.55b17a80.chunk.js",
-    "index.html": "/time-tracking-app/index.html",
-    "main.936bf0a0.css.map": "/time-tracking-app/static/css/main.936bf0a0.css.map",
-    "main.6aeda366.js.map": "/time-tracking-app/static/js/main.6aeda366.js.map",
-    "787.55b17a80.chunk.js.map": "/time-tracking-app/static/js/787.55b17a80.chunk.js.map"
+    "main.css": "/Time-Tracking-DashBoard/static/css/main.936bf0a0.css",
+    "main.js": "/Time-Tracking-DashBoard/static/js/main.420162da.js",
+    "static/js/787.55b17a80.chunk.js": "/Time-Tracking-DashBoard/static/js/787.55b17a80.chunk.js",
+    "index.html": "/Time-Tracking-DashBoard/index.html",
+    "main.936bf0a0.css.map": "/Time-Tracking-DashBoard/static/css/main.936bf0a0.css.map",
+    "main.420162da.js.map": "/Time-Tracking-DashBoard/static/js/main.420162da.js.map",
+    "787.55b17a80.chunk.js.map": "/Time-Tracking-DashBoard/static/js/787.55b17a80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.936bf0a0.css",
-    "static/js/main.6aeda366.js"
+    "static/js/main.420162da.js"
   ]
 }
