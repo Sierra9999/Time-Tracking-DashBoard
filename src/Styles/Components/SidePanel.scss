@@ -1,7 +1,9 @@
 @import "../../Styles/Variables";
 
 .side-panel{
-    height: 600px
+    min-height: 400px;
+    width: 200px;
+    display: inline-block;
 }
 
 .side-panel__owner{
@@ -14,11 +16,11 @@
 }
 .side-panel__navigation{
     background-color: $Dark-blue;
-    height: 300px;
+    min-height: 50px;
     width: 200px;
     position: absolute;
     z-index: 0;
-    top: 10%;
+    top: 40%;
     border-radius: 0% 0% 25px 25px;
 
 }

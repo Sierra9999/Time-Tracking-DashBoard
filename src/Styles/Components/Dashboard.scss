@@ -1,0 +1,12 @@
+.dashboard{
+    display: flex;
+    border: solid 5px white;
+}
+.dashboard__left{
+    width: 30%;
+    border: solid 5px red;
+}
+.dashboard__right{
+    width: 70%;
+    border: solid 5px green;
+}

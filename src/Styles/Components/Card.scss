@@ -1,0 +1,27 @@
+.card {
+    color: $white-text;
+    width: 200px;
+    margin-left: 200px;
+}
+
+.card:hover{
+    .card__main{
+        background-color: $Desaturated-blue;
+    }
+}
+
+.card__top-slice{
+    height: 50px;
+    width: 200px;
+    background-color: $Light-orange;
+    border-radius: 20px 20px 0px 0px;
+    position: relative;
+    top: 20px;
+    z-index: -1;
+}
+.card__main{
+    background-color: $Dark-blue;
+    min-height: 150px;
+    border-radius: 20px;
+    padding: 20px;
+}

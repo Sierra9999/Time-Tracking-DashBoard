@@ -1,10 +1,19 @@
 import React from 'react';
-import './App.scss';
+import './Styles/App.scss';
 import SidePanel from './components/SidePanel';
+import Card from './components/Card/Index';
 function App() {
   return (
     <div className="App">
-        <SidePanel></SidePanel>
+      <div className="dashboard">
+        <div className="dashboard__left">               <SidePanel></SidePanel>
+        </div>
+        <div className="dashboard__right">
+          <Card></Card>
+        </div>
+      </div>
+
+
     </div>
   );
 }
