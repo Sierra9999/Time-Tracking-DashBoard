@@ -1,26 +1,13 @@
 @import "../../Styles/Variables";
 
 .side-panel{
-    min-height: 400px;
-    width: 200px;
     display: inline-block;
+    height: 92%;
 }
 
 .side-panel__owner{
-    height: 300px;
-    width: 200px;
+    height: 100%;
+    width: 250px;
     background-color: $Blue ;
     border-radius: 25px;
-    position: absolute;
-    z-index: 1;
-}
-.side-panel__navigation{
-    background-color: $Dark-blue;
-    min-height: 50px;
-    width: 200px;
-    position: absolute;
-    z-index: 0;
-    top: 40%;
-    border-radius: 0% 0% 25px 25px;
-
 }

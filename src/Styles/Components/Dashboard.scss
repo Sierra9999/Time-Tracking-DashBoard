@@ -1,9 +1,13 @@
 .dashboard{
     display: flex;
     width: 100%;
+    border: 1px solid white;
 }
 .dashboard__left{
     width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .dashboard__right{
     display: grid;
